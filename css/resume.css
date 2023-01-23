@@ -66,6 +66,12 @@ p {
   justify-content: center;
   align-items: center;
 }
+.skill {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 .flex-start {
   display: flex;
