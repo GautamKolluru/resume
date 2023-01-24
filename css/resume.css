@@ -17,7 +17,7 @@
   );
 
   --font-96: clamp(56px, 8vw, 96px);
-  --font-40: clamp(24px, 6vw, 40px);
+  --font-40: clamp(14px, 2vw, 30px);
   --font-32: clamp(24px, 4vw, 32px);
 }
 
@@ -183,7 +183,7 @@ p {
 
 .header,
 .section {
-  min-height: 850px;
+  /* min-height: 850px; */
   padding: 110px;
 }
 .color {
